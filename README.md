@@ -1,9 +1,3 @@
-# OI Industry Instructions
+Hi, I'm Alpha_Drawer.
 
-## 0 前言
-
-要想要更有效率的刷题，一套模板是不可或缺的。
-
-所以现在开始维护一套板子，能够在刷题，尤其是 AT / CF 的时候更高效率的过题。
-
-一共分为多个工业，会上传到 github 上面。
+Currently learning CS programming.
