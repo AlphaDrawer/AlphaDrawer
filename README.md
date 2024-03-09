@@ -1,3 +1,3 @@
 Hi, I'm Alpha_Drawer.
 
-Currently learning CS programming.
+Currently learning OI, known as olympaid in informatics.
