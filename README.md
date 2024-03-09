@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AlphaDrawer
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently learning C++
-- 📫 How to reach me 3278724953 in QQ
+# OI Industry Instructions
 
-<!---
-AlphaDrawer/AlphaDrawer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 0 前言
+
+要想要更有效率的刷题，一套模板是不可或缺的。
+
+所以现在开始维护一套板子，能够在刷题，尤其是 AT / CF 的时候更高效率的过题。
+
+一共分为多个工业，会上传到 github 上面。
